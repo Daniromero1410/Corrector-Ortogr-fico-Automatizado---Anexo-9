@@ -1,0 +1,29 @@
+# Corrector Ortográfico Automatizado - Anexo 9
+# Dependencias del proyecto
+
+# Motor de corrección ortográfica
+language-tool-python>=2.9.4
+
+# Procesamiento de datos
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Lectura/escritura de Excel
+openpyxl>=3.1.0
+xlsxwriter>=3.0.0
+
+# Utilities
+tqdm>=4.65.0
+psutil>=5.9.0
+toml>=0.10.2
+requests>=2.31.0
+
+# Jupyter support (opcional, para desarrollo local)
+ipython>=8.0.0
+jupyter>=1.0.0
+
+# NOTA: 
+# LanguageTool requiere Java 17+ instalado en el sistema
+# Ubuntu/Debian: sudo apt-get install openjdk-17-jre-headless
+# macOS: brew install openjdk@17
+# Windows: Descargar desde https://adoptium.net/
