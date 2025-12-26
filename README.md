@@ -153,7 +153,6 @@ wb.save('Anexo_9_Corregido.xlsx')
 ```
 corrector-ortografia-anexo9/
 ├── README.md                           # Este archivo
-├── LICENSE                             # Licencia MIT
 ├── .gitignore                          # Archivos ignorados por Git
 ├── requirements.txt                    # Dependencias Python
 └── corrector_ortografia_anexo9.ipynb  # Notebook principal
