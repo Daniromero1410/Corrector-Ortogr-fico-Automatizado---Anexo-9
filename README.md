@@ -244,7 +244,7 @@ Probado con:
 ## Desarrollo
 
 **Desarrollador:** Daniel Romero  
-**Rol:** Software Engineer - Big Data & AI  
+**Rol:** Software Engineer 
 **Organización:** GESTAR INNOVACIÓN / POSITIVA Compañía de Seguros  
 **Email:** danielromero.software@gmail.com
 
